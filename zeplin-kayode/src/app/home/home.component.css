@@ -1,0 +1,178 @@
+#timeline {
+  margin: 1em auto;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.post {
+  padding: 7px;
+  margin-bottom: 7px;
+}
+
+.post q {
+  display: block;
+}
+
+#new_post {
+   margin: 1em auto;
+  /*padding: 7px;*/
+  /*border-bottom: #e8e8e8 solid 1px;*/
+}
+.default {
+  width: 634px;
+  height: 914px;
+  background-color: #ffffff;
+}
+
+.combined-shape-copy {
+  width: 91%;
+  margin-left: 75px;
+  height: 29%;
+  border-radius: 7px;
+  background-color: #f6f6f6;
+}
+.combined-shape-reply {
+  width: 91%;
+  margin-bottom: 15px;
+  height: 29%;
+  border-radius: 7px;
+  float: left;
+  background-color: #00c397;
+}
+
+.twitter-comment {
+  width: 438px;
+  height: 42px;
+  font-family: Roboto;
+  font-size: 15px;
+  line-height: 1.4;
+  text-align: left;
+  color: #092828;
+}
+
+.user-styles {
+  width: 143px;
+  height: 13px;
+  font-family: Roboto;
+  font-size: 11px;
+  color: #092828;
+  display: inline;
+}
+
+.user-avatar {
+  width: 48px;
+  height: 48px;
+  float: left;
+  /*margin-left: 15px;*/
+  margin-right: 38px;
+
+}
+
+.current-user-avatar {
+  width: 48px;
+  height: 48px;
+  background-color: #092828;
+  float: right;
+  border-radius: 50%;
+  margin-bottom: 19;
+  /*margin-left: 15px;*/
+  /*margin-left: 38px;*/
+}
+
+.user-timestamp {
+  font-family: Roboto;
+  float: right;
+  color: #092828;
+  font-size: 11px;
+  text-align: right;
+}
+
+.current-user-timestamp {
+  font-family: Roboto;
+  float: right;
+  color: #092828;
+  font-size: 11px;
+  margin-top: -13px;
+  text-align: right;
+}
+
+img {
+  width: 48px;
+  height: 48px;
+}
+
+.verified-user-copy {
+  width: 14px;
+  height: 14px;
+  font-family: MaterialIcons;
+  font-size: 14px;
+  text-align: center;
+  color: #092828;
+}
+.line {
+  width: 100%;
+  height: 3px;
+  background-color: #00c397;
+  border: solid 1px #00c397;
+}
+
+.as-type-the-number {
+  width: 90%;
+  height: 18px;
+  font-family: Roboto;
+  font-size: 15px;
+  text-align: left;
+  color: #092828;
+}
+
+/*hr {*/
+  /**/
+/*}*/
+
+
+.user-reply-bubble {
+  width: 100%;
+  height: 42px;
+  font-family: Roboto;
+  font-size: 15px;
+  line-height: 1.4;
+  text-align: left;
+  color: #ffffff;
+  padding: 5px;
+}
+
+.message-padding {
+  padding: 5px;
+}
+
+.fill-13-copy {
+  width: 20.7px;
+  height: 17.5px;
+  background-color: #ffffff;
+}
+
+.message-box { width: 100% }
+.character-counter { width: 15%; float: left; }
+.form-field { width: 70%; float: left; }
+.send-section { width: 15%; float: left;}
+
+#send-button {
+  float: right;
+  width: auto;
+  padding-left: 40px;
+  height: 20px;
+  font-family: MaterialIcons;
+  font-size: 20px;
+  text-align: left;
+  color: #00c397;
+}
+
+.char-color {
+  color: #00c397;
+}
+
+.red {
+  color: red;
+}
